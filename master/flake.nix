@@ -11,7 +11,6 @@
   inputs.src-hackpad-master.ref   = "refs/heads/master";
   inputs.src-hackpad-master.owner = "juancarlospaco";
   inputs.src-hackpad-master.repo  = "nim-hackpad";
-  inputs.src-hackpad-master.dir   = "";
   inputs.src-hackpad-master.type  = "github";
   
   inputs."jester".owner = "nim-nix-pkgs";
