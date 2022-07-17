@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657154314,
-        "narHash": "sha256-iVRqs3U03h9S4rmJ6ZOwWCQWtyUBSXDLGjIWzvn0Ly4=",
+        "lastModified": 1658019385,
+        "narHash": "sha256-zo9ToHMLmy1X3uu3n2Yv+mInX4YpkWF+WjmG8FBdJVg=",
         "owner": "nim-nix-pkgs",
         "repo": "hackpad",
-        "rev": "12cc51e72f6b83d49f53a946f1347413219462d2",
+        "rev": "28ef45c7aba3989ed6e3fd3af3d8a2693077b862",
         "type": "github"
       },
       "original": {
